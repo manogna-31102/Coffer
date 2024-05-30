@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Graphical Password Authentication</string>
+    <string name="gpa_graphical_password_authenticator_is_a_concept_application_designed_for_the_android_operating_system_it_demonstrates_the_concept_of_graphical_password_authenticcation_where_images_are_used_as_password_sequence_in_3_layers_which_will_randomize_every_time_this_will_proveide_more_security_than_conventional_password_authentication_methods">GPA (Graphical Password Authenticator) is a concept Application designed for the Android Operating System. It demonstrates the concept of Graphical Password Authenticcation where images are used as password sequence in 3 layers which will randomize every time. This will proveide more security than conventional password authentication methods.</string>
+    <string name="welcome_to_gpa">Welcome to GPA</string>
+    <string name="button">Button</string>
+    <string name="try_gpa">Try GPA</string>
+    <string name="please_choose_categories_for_your_3_layer_password_sequence">Please choose categories for your 3 layer password sequence</string>
+    <string name="animals">ANIMALS</string>
+    <string name="flowers">FLOWERS</string>
+    <string name="monuments">MONUMENTS</string>
+    <string name="food">FOOD</string>
+    <string name="sports">SPORTS</string>
+    <string name="transport">TRANSPORT</string>
+    <string name="done">Done</string>
+    <string name="animals_monuments_transport">ANIMALS, MONUMENTS, TRANSPORT</string>
+    <string name="todo">TODO</string>
+    <string name="click_on_images_to_enter_your_image_pattern_password">Click on images to enter your image pattern password.</string>
+    <string name="gpa">GPA</string>
+    <string name="todo5">TODO5</string>
+    <string name="todo6">TODO6</string>
+    <string name="todo9">TODO9</string>
+    <string name="todo8">TODO8</string>
+    <string name="todo7">TODO7</string>
+    <string name="todo4">TODO4</string>
+    <string name="todo2">TODO2</string>
+    <string name="todo3">TODO3</string>
+    <string name="todo1">TODO1</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
